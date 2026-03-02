@@ -1,4 +1,5 @@
 # constansino Bilibili Subtitle Extractor Pro
+<img width="928" height="1296" alt="PixPin_2026-03-03_03-14-16" src="https://github.com/user-attachments/assets/dd6d12e7-ac71-48d9-ac4f-5dab8daaed20" />
 
 一个用于 B 站视频字幕提取的 Tampermonkey 油猴脚本，支持字幕可视化、搜索、复制与导出。
 
@@ -66,9 +67,6 @@
 
 ### v1.1.0
 
-- 改名为 `constansino Bilibili Subtitle Extractor Pro`
-- 作者信息改为 `constansino`
-- 新增项目文档
 - 修复字幕正文 `Failed to fetch` 问题
 
 ## 免责声明
