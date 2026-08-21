@@ -1,3 +1,5 @@
+
+
 # constansino Bilibili Subtitle Extractor Pro
 更多随手做:aiya.de5.net
 <img width="928" height="1296" alt="PixPin_2026-03-03_03-14-16" src="https://github.com/user-attachments/assets/dd6d12e7-ac71-48d9-ac4f-5dab8daaed20" />
@@ -38,7 +40,7 @@
 ## 使用说明
 
 1. 打开任意 B 站视频页
-2. 页面右下角点击“字幕提取”悬浮按钮
+2. 在页面右下角点击“字幕提取”悬浮按钮
 3. 在面板顶部选择字幕轨道
 4. 在搜索框输入关键字进行过滤
 5. 使用底部按钮复制或导出字幕
